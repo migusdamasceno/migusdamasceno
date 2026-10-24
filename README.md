@@ -32,5 +32,5 @@ Como parte da minha rotina no IME-USP e estudos autônomos, trabalho de forma lo
 
 Estou em busca de oportunidades de estágio onde eu possa contribuir com minha base técnica e aprender diariamente com equipes experientes. 
 
-* **LinkedIn:** (https://linkedin.com)
+* **LinkedIn:** linkedin.com/in/miguel-da-silva-damasceno-9a9a8a3a9/
 * **E-mail:** miguelsdamasceno@usp.br
